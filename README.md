@@ -1,6 +1,6 @@
-PHIÊN BẢN UNITY: 6.4 (6000.4.01f)
+PHIÊN BẢN UNITY: 6.4 (6000.4.0f1)
 
-UNITY VERSION: 6.4 (6000.4.01f)
+UNITY VERSION: 6.4 (6000.4.0f1)
 
 LINK BUILD (WINDOW): https://drive.google.com/file/d/1v3aQWIHpUJsiCMbO_tK9F2RYYuyBENlp/view?usp=drive_link
 
